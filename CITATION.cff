@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica 2: Sistema respiratorio'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Zamora Chon Michelle Ariadna
+    email: l22210432@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+  - given-names: Rivera Peñuelas Mariana
+    email: l22210427@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+keywords:
+  - Sistema respiratorio
+license: BSD-2-Clause
+date-released: '2025-03-28'
