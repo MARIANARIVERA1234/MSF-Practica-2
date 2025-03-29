@@ -18,7 +18,7 @@ sano (control).
 6. Ilustrar el cambio del flujo de aire y el volumen tidal en respuesta a las siguientes formas de onda de presion sinusoidal en la apertura de la via aerea [Pao(t)]:
 a) 15 respiraciones por minuto con una amplitud (A) de 2.5 cmH2O, es decir, respiracion normal
 b) 30 respiraciones por minuto con una amplitud (A) de 1.5 cmH2O, es decir, respiracion elevada o taquipnea.
-7. Determinar la respuesta a la funcion sinusoidal [u(t) =Asin!t] en el intervalo t2[0;30](segundos), en Python, Simulink y Multisim en lazo abierto y en lazo cerrado con el controlador.
+7. Determinar la respuesta a la funcion sinusoidal [u(t) =Asin!t].
 8. Elaborar el diagrama biologico del sistema con BioRender.com.
 9. Discutir los resultados obtenidos en la experimentacion in silico y elaborar el reporte de la practica
 
